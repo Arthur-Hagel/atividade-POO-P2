@@ -7,3 +7,4 @@ Arthur Hagel e Gabriel Leal
 - Registrar matriculas para cada estudante (disciplina)
 
 - Segue 4 partes do enunciado: A-List,B-Set,C- Map,D-Integração
+
